@@ -1,0 +1,280 @@
+body {
+	
+		background-image:linear-gradient(to bottom,#B2FFEE ,#CCFFB2,#FFCFB2 );
+		
+	 }
+	 
+	 
+	 
+	 
+
+nav    {
+
+	
+			overflow:hidden;
+			background-color:white;
+
+			
+			
+		 }
+		 
+		 
+		 
+nav a {
+	
+				float:left;
+			   	color: #036354;
+				text-align:center;
+				padding:15px;
+				text-decoration:none;
+				font-size:20px;
+				font-weight:900;
+				font-style:italic;
+				margin:20px;
+				
+				
+
+		}
+			
+			
+			
+
+nav a:hover  {
+	
+	
+				
+					color:#3E061B;
+					background-color:wwhite;
+			   }
+			   
+	
+	
+h1	{
+	
+		text-align:center;
+		color:teal;
+	}
+	
+	
+.col1 p	{
+	
+			text-align:start;
+			color:#591905;
+			
+		}
+		
+
+		
+.col2 p {
+	
+	
+			text-align:end;
+			color:#591903;
+			
+		}
+		
+
+		
+.col3  p{
+			
+			text-align:center;
+			
+			color:#593D03;
+		}
+		
+
+		
+		
+
+.col4	p{
+			
+			text-align:justify;
+			color:#595503;
+	
+		}
+
+
+
+.col5 p {
+	
+				text-decoration:underline;
+				color:#595503;
+				
+		}
+		
+
+
+			
+.col6	p{
+	
+			text-decoration:through;
+			color:#285903;
+			
+		}
+			
+			
+.col7	p{
+	
+			text-decoration:dotted;
+			color:#1A5903;
+			
+		}
+		
+		
+.col8	p{
+	
+			text-decoration:underline dotted pink;
+			color:#035905;
+			
+		}
+		
+
+.col9	p{
+	
+			text-decoration:green wavy underline;
+			color:#035914;
+			
+		}
+		
+		
+		
+.col10	p{
+	
+			text-decoration:underline overline;
+			color:#035914;
+			
+		}
+		
+		
+.col11	p{
+	
+			text-transform:capitalize;
+			color:#03591F;
+	
+	
+		}
+		
+		
+		
+		
+.col12	p{
+	
+			text-transform:uppercase;
+			color:#035933;
+	
+	
+		}
+		
+		
+		
+.col13	p{
+	
+			text-transform:lowercase;
+			color:#035950;
+	
+	
+		}
+		
+		
+.col14	p{
+	
+			text-transform:full-width;
+			color:#035950;
+	
+	
+		}
+		
+		
+.col15	p{
+	
+			text-transform:full-size-kana;
+			color:#035459;
+	
+	
+		}
+		
+		
+		
+		
+.col16	p{
+	
+			word-spacing:5px;
+			color:#034A59;
+	
+	
+		}
+		
+.col17	p{
+	
+			word-spacing:-.4ch;
+			color:#033959;
+	
+	
+		}
+		
+
+.col18	p{
+	
+			word-spacing:1rem;
+			color:#032E59;
+	
+	
+		}
+		
+		
+.col19	p{
+	
+			font-family:georgia,serif;
+			color:#032459;
+	
+	
+		}
+		
+		
+.col20	p{
+	
+			font-family:"gill sans"sans-serif;
+			color:#031859;
+	
+	
+		}
+		
+		
+		
+.col21	p{
+	
+			font-family:sans-serif;
+			color:#240359;
+	
+	
+		}
+		
+		
+		
+		
+.col22	p{
+	
+			font-family:serif;
+			color:#590352;
+	
+	
+		}
+		
+		
+		
+.col23	p{
+	
+			font-family:cursive;
+			color:#590330;
+	
+	
+		}
+		
+		
+.col24	p{
+	
+			font-family:system-ui;
+			color:#590325;
+
+		}
+
